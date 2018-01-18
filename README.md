@@ -1,4 +1,4 @@
-# vox-redirects
+# vox-redirects 
 
 <p align="left"><a href="https://github.com/yogurt-design/vox-redirects" target="_blank"><img width="340" src="/cover.jpg?raw=true"></a></p>
 
